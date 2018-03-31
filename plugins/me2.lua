@@ -290,6 +290,8 @@ end
 return {
   patterns = {
     "^[!/#]me$",
+    "^آیدی$",
+    "^ایدی$",
   }, 
   pre_process = pre_process,
   cron = cron,
