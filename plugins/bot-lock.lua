@@ -80,5 +80,3 @@ return {
   run = run
 }
 
---shared by @WaderTGTeam
---by @WaderTG
