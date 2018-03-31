@@ -1,5 +1,4 @@
---Created by: @WaderTGTeam
---Powered by: @WaderTGTeam
+
 --âڑ ï¸ڈCopyRight all right reservedâڑ ï¸ڈ
 
 local function saveplug(extra, success, result)
@@ -34,6 +33,4 @@ return {
   run = run,
 }
 
---Created by: @WaderTGTeam
---Powered by: @WaderTGTeam
 --âڑ ï¸ڈCopyRight all right reservedâڑ ï¸ڈ
