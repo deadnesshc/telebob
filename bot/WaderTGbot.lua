@@ -404,8 +404,7 @@ channel:@TeleBobTM
 	help_text_super =[[
 TeleBob SuperGroup Commands :
 =========================
-آیدی
-نمایش اطلاعات فردی شخص
+@TeleBob
 =========================
 #infull
 About the you infull
