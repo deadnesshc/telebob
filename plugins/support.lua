@@ -11,6 +11,7 @@ end
 return {
     patterns = {
     "^[!/#](support)$",
+    "^ساپورت$",
      },
     run = run
 }
