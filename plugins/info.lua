@@ -1,5 +1,5 @@
 --[[
-Add phone by : @WaderTGTeam tnx to : @WaderTGTeam
+Add phone by : @teleBobTM
 ]]
 do
 local sudo = 136888679 --put your id here(BOT OWNER ID)
@@ -127,7 +127,7 @@ local function action_by_reply(extra, success, result)-- (reply) /info  function
   local um_hash = 'msgs:'..result.from.peer_id..':'..result.to.peer_id
   user_info_msgs = tonumber(redis:get(um_hash) or 0)
   text = text..'تعداد پیام های فرستاده شده : '..user_info_msgs..'\n\n'
-  text = text..'@WaderTGTeam'
+  text = text..'@teleBobTM'
   send_msg(extra.receiver, text, ok_cb, true)
 end
 
@@ -241,5 +241,5 @@ return {
 
 end
 --[[
-Add phone by : @WaderTGTeam tnx to : @WaderTGTeam
+Add phone by : @teleBobTM
 ]]
