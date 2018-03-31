@@ -251,13 +251,13 @@ function create_config( )
     },
     sudo_users = {67559249,71951412,154868817,143531868,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleBob v4
+    about_text = [[TeleBob+ v4
 An advanced administration bot based on TG-CLI written in Lua
 Admins
 @typer_haghighi
 Our channels
 @TeleBobTM
-thankyou for all admins bot TeleBob
+thankyou for all admins bot TeleBob+
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -402,9 +402,9 @@ will return group ban list
 channel:@TeleBobTM
 ]],
 	help_text_super =[[
-TeleBob SuperGroup Commands :
+TeleBob+ SuperGroup Commands :
 =========================
-@TeleBob
+@TeleBobPLUS
 =========================
 #infull
 About the you infull
