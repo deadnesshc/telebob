@@ -49,6 +49,3 @@ return {
 }
 end
 
---fix for channel by @WaderTGTeam
-
---Tnx to WaderTG Team
