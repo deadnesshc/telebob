@@ -1,8 +1,8 @@
 --[[
 
 #
-#       @WaderTGTeam
-#   @WaderTG
+#       @teleBobTM
+#   @TeleBobPLUS
 #
 
 ]]
@@ -34,7 +34,7 @@ if jdat.reason then
      text = text..'\nClan Points: '.. jdat.clanPoints
      text = text..'\nRequired Trophies: '.. jdat.requiredTrophies
      text = text..'\nMembers: '.. jdat.members
-     text = text..'\n\n@WaderTGTeam'
+     text = text..'\n\n@teleBobTM'
      cmd:close()
   return text
  end
@@ -68,7 +68,7 @@ text = leader.."\n"..coleader.."\n\nClan Members:"
   for i = 1, #items do
   text = text..'\n'..i..'- '..items[i].name..'\nlevel: '..items[i].expLevel.."\n"
   end
-  text = text.."\n\n@WaderTGTeam"
+  text = text.."\n\n@teleBobTM"
    cmd:close()
   return text
  end
