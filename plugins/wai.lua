@@ -22,6 +22,7 @@ return {
   patterns = {
     "^[#!/]([Ww]ai)$",
      "^([Ww]ai)$",
+     "^من کیم$",
      "^من کیم$"
     },
   run = run
